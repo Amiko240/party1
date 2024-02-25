@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    padding: 15px;
+}
+
+h1 i {
+    color:greenyellow
+}
+
+nav {
+    border: 7px solid blueviolet;
+    border-radius: 35px;
+    margin: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 25px;
+}
+
+.s {
+    border:5px solid skyblue; ;
+    padding:px;
+    background-color: skyblue;
+}
+
+h2 {
+    color:blue
+}
+
+.qw {
+    border:1px solid blue;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+}
